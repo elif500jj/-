@@ -7,7 +7,9 @@ const translations = {
     portfolio_title: "Портфолио",
     portfolio_text: "Здесь вы можете посмотреть мои работы. Я делаю сайты для бизнеса, магазинов и личных проектов.",
     contact_title: "Связаться со мной",
-    telegram: "Написать в Telegram"
+    telegram: "Написать в Telegram",
+        about_more: "Сейчас я развиваю свои навыки в HTML, CSS и JavaScript, а также помогаю людям запускать свои первые сайты.",
+    back: "← Назад на главную"
   },
   en: {
     title: "Elif's Website",
@@ -17,7 +19,9 @@ const translations = {
     portfolio_title: "Portfolio",
     portfolio_text: "Here you can see my work. I build websites for businesses, shops, and personal projects.",
     contact_title: "Contact Me",
-    telegram: "Message me on Telegram"
+    telegram: "Message me on Telegram",
+        about_more: "I am currently developing my skills in HTML, CSS, and JavaScript, and helping people launch their first websites.",
+    back: "← Back to main"
   }
 };
 
